@@ -1,5 +1,4 @@
-### lmaonice
-
+## I mess with FPGAs and specialize in SpinalHDL. Almost all my projects are under the Unlicense license, feel free to use them all.
 
 
 <!--
