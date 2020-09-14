@@ -1,5 +1,4 @@
-## I mess with FPGAs and specialize in SpinalHDL. Almost all my projects are under the Unlicense license, feel free to use them all.
-
+## I mess with FPGAs and specialize in SpinalHDL.
 
 <!--
 **reo-ar/reo-ar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
